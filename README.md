@@ -47,8 +47,7 @@ The dataset contains various features influencing house prices, such as:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Satishnaidu2633/House-Prediction.git
-   cd house-price-prediction
-
+```
 ## Install dependencies:
 
 ```bash
