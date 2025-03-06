@@ -48,3 +48,14 @@ The dataset contains various features influencing house prices, such as:
    ```bash
    git clone https://github.com/Satishnaidu2633/House-Prediction.git
    cd house-price-prediction
+
+## Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+## Run the Jupyter Notebook
+
+```bash
+jupyter notebook House_Prediction.ipynb
+```
